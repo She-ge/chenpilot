@@ -14,4 +14,5 @@ export * from "./horizonClient";
 export * from "./schemaValidator";
 export * from "./sequenceManager";
 export * from "./stellarSequenceHelper";
+export * from "./sponsorship";
 
